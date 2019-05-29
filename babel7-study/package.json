@@ -1,0 +1,23 @@
+{
+  "name": "babel7-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "core-js": "^2.6.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "build": "npx babel src --out-dir lib"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "npm-test-aaa",
+  "version": "0.1.11",
+  "dependencies": {
+    "jquery": "3.4.0"
+  }
+}

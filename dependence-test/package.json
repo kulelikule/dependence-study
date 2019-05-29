@@ -1,0 +1,8 @@
+{
+  "name": "dependence-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "npm-test-aaa": "^0.1.11",
+    "npm-test-bbb2": "^0.1.13"
+  }
+}
